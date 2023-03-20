@@ -4,7 +4,7 @@
 
 1.** Arithmetic Arranger** 
 *As found on freecodeacademy.org*
-The program arranges additions and subtractions, it also calculates them . 
+The program arranges additions and subtractions, and calculates them when the argument is set to true. 
 
 2.** Time Calculator**
 3.
