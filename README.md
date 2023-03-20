@@ -1,4 +1,4 @@
-# Beginner_projects
+# Beginner Projects
 
 *These are some of my beginner coding projects in Python*
 
@@ -28,7 +28,7 @@ If the function is given the optional starting day of the week parameter, then t
 
 Contains functions that perform simple statistical operations, such as: median, average, standard error, z-score.
 
-Also contains a function that describes a numerical sample: first entry, last entry, median, average, standard error
+Also contains a function that describes a numerical sample: first entry, last entry, median, average, standard error. 
 
 
 
